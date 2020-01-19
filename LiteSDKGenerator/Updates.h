@@ -8,10 +8,10 @@ namespace Updates
 	{
 	public:
 		// Main
-		static const uint64 GNames = 0x45e7420;
+		static const uint64 GNames = 0x453B6E0;
 		static const uint64 ObjObjects = 0x45e8a00;
 		//GNames
-		static const uint64 chunksize = 0x40f0;
+		static const uint64 chunksize = 0x4030;
 		static const uint64 static_gnames = 0x86AF8;
 		// UObject
 		static const uint64 ulcass = 0x10;
